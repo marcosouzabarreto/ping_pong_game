@@ -1,0 +1,1 @@
+Just a simple game made of Vanilla JavaScript, for fun.
